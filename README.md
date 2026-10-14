@@ -28,7 +28,7 @@ If you would like to run and test this app on your computer, follow these simple
 
 1. **Download the code** from this page (by clicking the green *"Code"* button and selecting *"Download ZIP"*, or by running this command in your terminal):
    ```bash
-   git clone 
+   git clone https://github.com/VladeGole/Wheather-condition.git
 Open your terminal and navigate to the project directory.
 
 Install dependencies (the required packages for the app to run) by typing:
